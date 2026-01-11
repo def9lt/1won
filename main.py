@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import CommandStart
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "ВАШ ТОКЕН БОТА"
+BOT_TOKEN = "8261950692:AAGPdrjcNIL4M3mZvg1iBuQGI5t5pXQHyZw"
 SITE_URL = "https://1win.com/?open=register&p=yicm"
 PROMO_CODE = "Yere1"
 VIDEO_PATH = "login_instruction.mp4"
@@ -211,3 +211,4 @@ async def main():
 
 if __name__ == "__main__":
     asyncio.run(main())
+
